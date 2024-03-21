@@ -1353,7 +1353,6 @@ nav .hamburger {
 }
 
 .logo{
-  align-items: center;
   position: relative;
 }
 
@@ -1362,6 +1361,15 @@ nav .hamburger {
   font-size: 5vh;
   position: absolute;
   top: 7vh;
+  font-family: "Fontdiner Swanky", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.header b{
+  color:black;
+  font-size: 9vh;
   font-family: "Fontdiner Swanky", serif;
   font-weight: 400;
   font-style: normal;
